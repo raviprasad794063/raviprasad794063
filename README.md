@@ -32,7 +32,7 @@ You can view my resume [here](#).
 
 ## 📫 **Connect with Me**
 - 🌐 LinkedIn: [Ravi Prasad](https://www.linkedin.com/in/ravi-prasad-3b1271281)
-- 📧 Email: [Ravi Prasad](rrk794063@gmail.com)
+- 📧 Email: rrk794063@gmail.com
 - 📒 kaggle: [Ravi_Ranjan794063](https://www.kaggle.com/raviranjan794063)
 ## 💡 **Fun Fact**
 I'm also fascinated by drones and UAV technology and love exploring new advancements in autonomous systems.
